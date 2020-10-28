@@ -350,7 +350,7 @@ header.masthead .post-heading .meta a {
   height: 300px;
   background: no-repeat center center;
   background-color: #868e96;
-  background-attachment: local;
+  background-attachment: scroll;
 }
 
 .floating-label-form-group {
