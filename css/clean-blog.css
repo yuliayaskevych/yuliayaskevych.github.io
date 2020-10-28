@@ -107,7 +107,7 @@ img::-moz-selection {
   font-weight: 800;
   color: #343a40;
   font-size: 18px;
-  letter-spacing: -0.5px;
+  letter-spacing: -1px;
 }
 
 #mainNav .navbar-toggler {
