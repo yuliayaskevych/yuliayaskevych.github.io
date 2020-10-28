@@ -43,6 +43,17 @@ blockquote {
   margin-top: 60px;
 }
 
+@media (max-width: 374px) {
+  .section-heading {
+    font-size: 28px;
+  }
+  .section-proposes{
+    h3{
+    font-size: 22px;
+    }
+  }
+}
+
 .caption {
   font-size: 14px;
   font-style: italic;

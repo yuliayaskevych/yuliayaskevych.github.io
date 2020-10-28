@@ -45,6 +45,14 @@ header.masthead {
         font-size: 80px;
       }
     }
+    @media (max-width: 374px) {
+      h1 {
+        font-size: 36px;
+      }
+      .subheading {
+        font-size: 18px;
+      }
+    }
   }
   .post-heading {
     h1 {
@@ -80,3 +88,4 @@ header.masthead {
     }
   }
 }
+

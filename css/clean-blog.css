@@ -49,6 +49,15 @@ blockquote {
   margin-top: 60px;
 }
 
+@media (max-width: 374px) {
+  .section-heading {
+    font-size: 28px;
+  }
+  .section-proposes h3 {
+    font-size: 22px;
+  }
+}
+
 .caption {
   font-size: 14px;
   font-style: italic;
@@ -171,7 +180,7 @@ img::-moz-selection {
 
 @media (max-width: 374px) {
   #mainNav .navbar-brand {
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: -1px;
   }
 }
@@ -238,6 +247,17 @@ header.masthead .site-heading .subheading {
   }
 }
 
+@media (max-width: 374px) {
+  header.masthead .page-heading h1,
+  header.masthead .site-heading h1 {
+    font-size: 36px;
+  }
+  header.masthead .page-heading .subheading,
+  header.masthead .site-heading .subheading {
+    font-size: 18px;
+  }
+}
+
 header.masthead .post-heading h1 {
   font-size: 35px;
 }
@@ -293,6 +313,12 @@ header.masthead .post-heading .meta a {
 .post-preview > a > .post-subtitle {
   font-weight: 300;
   margin: 0 0 10px;
+}
+
+@media (max-width: 374px) {
+  .post-preview > a > .post-title {
+    font-size: 24px;
+  }
 }
 
 .post-preview > .post-meta {

@@ -16,6 +16,11 @@
       font-weight: 300;
       margin: 0 0 10px;
     }
+    @media (max-width: 374px) {
+      > .post-title {
+        font-size: 24px;
+      }
+    }
   }
   > .post-meta {
     font-size: 18px;
