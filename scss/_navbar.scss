@@ -34,7 +34,7 @@
       color: $white;
       &:focus,
       &:hover {
-        color: fade-out($white, .2);
+        color: fade-out($white, 0.2);
       }
     }
     .navbar-nav {
@@ -44,7 +44,7 @@
           color: $white;
           &:focus,
           &:hover {
-            color: fade-out($white, .2);
+            color: fade-out($white, 0.2);
           }
         }
       }
@@ -68,8 +68,8 @@
       -webkit-transition: -webkit-transform 0.2s;
       -moz-transition: -moz-transform 0.2s;
       transition: transform 0.2s;
-      border-bottom: 1px solid darken($white, .05);
-      background-color: fade-out($white, .1);
+      border-bottom: 1px solid darken($white, 0.05);
+      background-color: fade-out($white, 0.1);
       .navbar-brand {
         color: $gray-900;
         &:focus,
@@ -96,6 +96,15 @@
       -ms-transform: translate3d(0, 100%, 0);
       -o-transform: translate3d(0, 100%, 0);
       transform: translate3d(0, 100%, 0);
+    }
+  }
+}
+
+@media (max-width: 374px) {
+  #mainNav {
+    .navbar-brand {
+      font-size: 18px;
+      letter-spacing: -1px;
     }
   }
 }

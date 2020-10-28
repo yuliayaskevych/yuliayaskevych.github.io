@@ -169,6 +169,13 @@ img::-moz-selection {
   }
 }
 
+@media (max-width: 374px) {
+  #mainNav .navbar-brand {
+    font-size: 18px;
+    letter-spacing: -1px;
+  }
+}
+
 header.masthead {
   margin-bottom: 50px;
   background: no-repeat center center;
