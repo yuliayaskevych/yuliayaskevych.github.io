@@ -228,6 +228,11 @@ header.masthead .site-heading {
 header.masthead .page-heading h1,
 header.masthead .site-heading h1 {
   font-size: 46px;
+  margin-top: 0;
+}
+
+header.masthead .page-heading .margin-top,
+header.masthead .site-heading .margin-top {
   margin-top: -150px;
 }
 
