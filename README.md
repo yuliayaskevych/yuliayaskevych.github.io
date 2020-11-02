@@ -25,6 +25,9 @@ You must have npm installed globally in order to use this build environment.
 
 ## About
 
+Сайт Автосервиса на Дегтяревской 21.
+Надана информация о компании, перечень предостовляемых услуг, контактная информация, схема проезда.
+
 ## Copyright and License
 
 Copyright 2020 Автосервис на Дегтяревской 
