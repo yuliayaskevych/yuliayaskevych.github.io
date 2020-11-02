@@ -1,7 +1,8 @@
 # [Aвтосервис на Дегтяревской 21]
 
 ## Preview
-[![site](img/preview.png)]
+[![site](https://github.com/yuliayaskevych/yuliayaskevych.github.io/raw/main/img/preview.png)]
+
 ## About
 
 ## Copyright and License
