@@ -1,0 +1,1051 @@
+# Translation of Themes - Mudita in Ukrainian
+# This file is distributed under the same license as the Themes - Mudita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-30 09:55:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Mudita\n"
+
+#. Theme Name of the theme
+msgid "Mudita"
+msgstr "Mudita"
+
+#. Description of the theme
+msgid "Mudita is a  beautifully designed, clean and modern multi-purpose WordPress theme. The theme is very versatile and can be used by any business websites, digital agency, consultancy, corporate business, freelancers, portfolio and product showcase, bloggers and everyone one who appreciates beautiful design. The theme is SEO friendly, which  make it easy for your site to rank Google and other search engines. Mudita is loaded with several features to make user-friendly, interactive and visually stunning website. Such features include two menus, full width banner,  service section, team section, testimonial section,  off canvas menu and social media. It has four footer area and a right sidebar and includes  three custom widgets for recent posts, popular posts, and the featured post. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Mudita allows anyone to create a stunning, fast and mobile friendly website compatible with all browsers and devices. Check the demo at https://rarathemes.com/previews/?theme=mudita, documentation at https://docs.rarathemes.com/docs/mudita/ and get support at https://rarathemes.com/support-forum/."
+msgstr "Mudita - це красиво розроблена, чиста та сучасна багатоцільова тема WordPress. Тема дуже універсальна і може бути використана будь-якими веб-сайтами бізнесу, цифровим агентством, консалтингом, корпоративним бізнесом, фрілансерами, вітриною портфоліо та продуктів, блогерами та всім, хто цінує прекрасний дизайн. Тема - SEO-зручна, що полегшує для вашого сайту рейтинг Google та інших пошукових систем. Mudita постачається з декількома функціями, щоб зробити зручним для користувачів інтерактивним та візуально приголомшливим веб-сайтом. Такі функції включають два меню, банер на повну ширину, розділ сервісу, командний розділ, розділ відгуків, меню \"Полотно\" та соціальні медіа. Вона має чотири області нижнього колонтитулу та праву бічну панель і містить три користувацькі віджети для останніх публікацій, популярних публікацій та популярних публікацій. Тема суворо перевірена та оптимізована для швидкості та швидшого завантаження сторінки та має безпечний та чистий код. Тема також готова до перекладу. Розроблена з урахуванням залучення відвідувачів, Mudita дозволяє кожному створити приголомшливий, швидкий та мобільний дружній веб-сайт, сумісний із усіма браузерами та пристроями. Перевірте демонстрацію на https://demo.rarathemes.com/mudita/, документацію на https://docs.rarathemes.com/docs/mudita/ та отримайте підтримку за адресою https://rarathemes.com/support-forum/."
+
+#: inc/extras.php:280 inc/extras.php:285
+msgid "Email"
+msgstr "Email"
+
+#: inc/extras.php:279 inc/extras.php:283
+msgid "Name"
+msgstr "Ім`я"
+
+#: inc/extras.php:300
+msgid "Comment"
+msgstr "Коментар"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти до вмісту (натисніть Enter)"
+
+#: inc/widget-featured-post.php:116
+msgid "Excerpt Word Count"
+msgstr "Кількість слів у уривку"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[1] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[2] "Наступний рекомендований плагін наразі неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[1] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[2] "Наступний необхідний плагін наразі неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Є оновлення для: %1$s."
+msgstr[1] "Є оновлення для: %1$s."
+msgstr[2] "Є оновлення для: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[1] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[2] "Ця тема рекомендує наступний плагін: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ця тема потребує наступного плагіна: %1$s."
+msgstr[1] "Ця тема потребує наступного плагіна: %1$s."
+msgstr[2] "Ця тема потребує наступного плагіна: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[1] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[2] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+
+#: inc/extras.php:514
+msgid "Mudita | Developed By "
+msgstr "Mudita | Розроблена "
+
+#: inc/extras.php:114 inc/extras.php:116 inc/extras.php:122 inc/extras.php:127
+#: inc/extras.php:511
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Встановлення плагіну: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Встановити плагіни"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Встановити необхідні плагіни"
+
+#: inc/info.php:24
+msgid "Theme info"
+msgstr "Інформація про тему"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Переглянути документацію"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+#: inc/info.php:26 inc/info.php:27
+msgid "here"
+msgstr "тут"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Подивитися демо"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+#: inc/customizer.php:1018
+msgid "Footer Settings"
+msgstr "Налаштування підвалу"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Будь ласка, зв'яжіться з адміністратором цього сайту, щоб отримати допомогу."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Необхідно встановити, оновити або активувати ще один або кілька обов'язкових і рекомендованих плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Сховати це сповіщення"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагіни успішно встановлені і активовані. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагін не активовано. Для цієї теми потрібна новіша версія %s. Будь ласка, оновіть плагін."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ніяких дій не здійснено. Плагін %1$s було вже активовано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Наступний плагін було успішно активовано:"
+msgstr[1] "Наступний плагін було успішно активовано:"
+msgstr[2] "Наступний плагін було успішно активовано:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагін успішно активовано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Повернутися до Майстерні"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до розділу встановлення необхідних плагінів"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Почати активацію плагіна"
+msgstr[1] "Почати активацію плагіна"
+msgstr[2] "Почати активацію плагіна"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Оновлення плагіну"
+msgstr[1] "Оновлення плагіну"
+msgstr[2] "Оновлення плагіну"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Почати встановлення плагіну"
+msgstr[1] "Почати встановлення плагіну"
+msgstr[2] "Почати встановлення плагіну"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так із API плагіну."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Оновлення плагіну: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Діючий"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Встановлено, але не активовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не встановлено"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Заздалегідь запаковано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Зовнішнє джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторій WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендовані"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Обов’язкове"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "та"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Архів плагіна містить більше одного файлу, але ці файли не в теці."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Будь ласка, зв'яжіться з автором плагіна та попросіть запакувати плагін відповідно до правил WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Архів плагіна не містить теки з бажаним слаґом і перейменування не спрацювало."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Потрібне оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Цей плагін потрібно оновити для сумісності з вашою темою."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагін"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Немає плагінів для встановлення, оновлення або активації."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступна версія: "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Мінімально необхідна версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідомо"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активації <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступне оновлення <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[1] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[2] "Встановити <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Усі <span class=\"count\">(%s)</span>"
+msgstr[1] "Усі <span class=\"count\">(%s)</span>"
+msgstr[2] "Усі <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Оновлення рекомендовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Потребує оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Потрібне оновлення не доступне"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Жодних плагінів не обрано для активації. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Немає доступних плагінів для оновлення."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "На даний час немає доступних для встановлення плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Жодних плагінів не обрано для оновлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Жодних плагінів не обрано для встановлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Оновити"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Встановити"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення про оновлення від автора плагіна:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активувати %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Оновити %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Встановити %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версія"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Усі встановлення завершено."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s встановлено успішно."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо і активуємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Усі встановлення та активації завершені."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Сховати деталі"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показати деталі"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s встановлений і успішно активований."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення та активації. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Встановити %1$s не вдалося."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Сталася помилка при встановленні %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плагіну %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активація плагіна не вдалася."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "На даний час немає доступних для активації плагінів."
+
+#: inc/info.php:27
+msgid "More WordPress Themes"
+msgstr "Більше WordPress тем"
+
+#: inc/info.php:26
+msgid "Rate this theme"
+msgstr "Оцінити цю тему"
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr "Запит на підтримку"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Інформаційні посилання"
+
+#: inc/customizer.php:1035
+msgid "Copyright Info"
+msgstr "Текст авторського права"
+
+#: inc/customizer.php:16
+msgid "Static Front Page"
+msgstr "Статична головна сторінка"
+
+#: inc/info.php:31
+msgid "About Mudita"
+msgstr "Про Mudita"
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Коментарі"
+
+#: index.php:38 archive.php:38 search.php:42
+msgid "Page"
+msgstr "Сторінку"
+
+#: 404.php:18
+msgid "previous page"
+msgstr "Попередня сторінка"
+
+#: 404.php:17
+msgid "homepage"
+msgstr "Домашня сторінка"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "Сторінку не знайдено"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:38
+msgid "Choose Category"
+msgstr "Оберіть категорію"
+
+#: header.php:72
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:198
+msgid "Footer Four"
+msgstr "Четвертий підвал"
+
+#: functions.php:188
+msgid "Footer Three"
+msgstr "Третій підвал"
+
+#: functions.php:178
+msgid "Footer Two"
+msgstr "Другий підвал"
+
+#: functions.php:168
+msgid "Footer One"
+msgstr "Перший підвал"
+
+#: functions.php:158
+msgid "Right Sidebar"
+msgstr "Права бічна колонка"
+
+#: functions.php:48
+msgid "Secondary"
+msgstr "Вторинний"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Основне"
+
+#: inc/extras.php:287
+msgid "Website"
+msgstr "Вебсайт"
+
+#: inc/extras.php:280
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/extras.php:279
+msgid "Name*"
+msgstr "Ім’я*"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: inc/customizer.php:194
+msgid "Featured Section"
+msgstr "Розділ обране"
+
+#: inc/widget-featured-post.php:112 inc/customizer.php:183
+#: inc/customizer.php:342 inc/customizer.php:427
+msgid "Read More Text"
+msgstr "Текст читати далі"
+
+#: inc/customizer.php:128
+msgid "Banner Section"
+msgstr "Розділ банеру"
+
+#: inc/customizer.php:120
+msgid "Customize Home Page Settings"
+msgstr "Налаштування параметрів домашньої сторінки"
+
+#: inc/customizer.php:70
+msgid "Header Settings"
+msgstr "Налаштування заголовку"
+
+#: inc/customizer.php:540
+msgid "Enable Blog Section"
+msgstr "Увімкнути розділ блогу"
+
+#: inc/customizer.php:522
+msgid "Blog Section"
+msgstr "Розділ блогу"
+
+#: inc/customizer.php:510
+msgid "Select Category"
+msgstr "Обрати категорію"
+
+#: inc/customizer.php:474
+msgid "Team Section Title"
+msgstr "Заголовок розділу команда"
+
+#: inc/customizer.php:438
+msgid "Team Section"
+msgstr "Розділ команди"
+
+#: inc/customizer.php:353
+msgid "Service Section"
+msgstr "Розділ послуг"
+
+#: inc/customizer.php:783
+msgid "Breadcrumb Separator"
+msgstr "Роздільник хлібних крихт"
+
+#: inc/extras.php:66 inc/customizer.php:775
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:765
+msgid "Breadcrumb Home Text"
+msgstr "Домашній текст хлібних крихт"
+
+#: inc/extras.php:67 inc/customizer.php:757
+msgid "Home"
+msgstr "Домівка"
+
+#: inc/customizer.php:729
+msgid "Enable Breadcrumb"
+msgstr "Увімкнути хлібні крихти"
+
+#: inc/customizer.php:623
+msgid "Testimonial Section Title"
+msgstr "Заголовок розділу відгуки"
+
+#: inc/customizer.php:587
+msgid "Testimonial Section"
+msgstr "Розділ відгуків"
+
+#: inc/customizer.php:1005
+msgid "Custom Css"
+msgstr "Користувацький код Css"
+
+#: inc/extras.php:258 inc/customizer.php:975
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/extras.php:256 inc/customizer.php:957
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:939
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/extras.php:252 inc/customizer.php:921
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:903
+msgid "Pintest"
+msgstr "Pintest"
+
+#: inc/extras.php:248 inc/customizer.php:885
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/extras.php:246 inc/customizer.php:867
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/metabox.php:39
+msgid "Choose Sidebar Template"
+msgstr "Оберіть шаблон бічної колонки"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Макет бічної колонки"
+
+#: inc/extras.php:516
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#: inc/extras.php:516
+msgid "Powered by: %s"
+msgstr "Працює на: %s"
+
+#: inc/extras.php:511
+msgid "Copyright &copy; "
+msgstr "Авторське право &copy; "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:421 inc/template-tags.php:45 inc/template-tags.php:51
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:341
+msgid "(Edit)"
+msgstr "(Змінити)"
+
+#: inc/extras.php:333
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує узгодження."
+
+#: inc/extras.php:254
+msgid "Gooble Plus"
+msgstr "Gooble Plus"
+
+#: inc/extras.php:250
+msgid "Pinterst"
+msgstr "Pinterst"
+
+#: search.php:21
+msgid "Search Result"
+msgstr "Результат пошуку"
+
+#: inc/widget-popular-post.php:120 inc/widget-recent-post.php:119
+msgid "Number of Posts"
+msgstr "Кількість записів"
+
+#: inc/widget-popular-post.php:115 inc/widget-recent-post.php:114
+msgid "Title"
+msgstr "Назва"
+
+#: inc/widget-popular-post.php:41 inc/widget-popular-post.php:107
+#: inc/widget-popular-post.php:150
+msgid "Popular Posts"
+msgstr "Популярні записи"
+
+#: template-parts/content-search.php:22 inc/widget-featured-post.php:41
+#: inc/widget-featured-post.php:95 inc/widget-featured-post.php:142
+msgid "Read More"
+msgstr "Читати далі"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:42 inc/template-tags.php:60
+msgid "Edit %s"
+msgstr "Редагувати %s"
+
+#: inc/template-tags.php:30
+msgid "% Comments"
+msgstr "% Коментарів"
+
+#: inc/template-tags.php:30
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: inc/template-tags.php:30
+msgid "Leave a comment"
+msgstr "Залишити коментар"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Домашня сторінка"
+
+#: template-parts/content.php:72
+msgid "Learn More "
+msgstr "Вивчити більше."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47 template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продовжувати читання %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:63 template-parts/content-page.php:31
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, що не вдалося знайти те, що ви шукаєте. Можливо допоможе пошук."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: sections/section-testimonial.php:41 sections/section-testimonial.php:74
+msgid "- "
+msgstr "- "
+
+#: inc/widget-recent-post.php:41 inc/widget-recent-post.php:106
+#: inc/widget-recent-post.php:149
+msgid "Recent Posts"
+msgstr "Недавні записи"
+
+#: inc/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr "Віджет нові записи"
+
+#: inc/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr "RARA: Нові записи"
+
+#: inc/widget-popular-post.php:131 inc/widget-recent-post.php:130
+msgid "Show Post Date"
+msgstr "Показати дату запису"
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Віджет популярні записи"
+
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Популярні записи"
+
+#: inc/widget-featured-post.php:122 inc/widget-popular-post.php:126
+#: inc/widget-recent-post.php:125
+msgid "Show Post Thumbnail"
+msgstr "Показати мініатюру запису"
+
+#: inc/widget-featured-post.php:83
+msgid "--choose--"
+msgstr "--оберіть--"
+
+#: inc/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "Віджет обраний запис"
+
+#: inc/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "RARA: Обраний запис"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Права бічна колонка (за замовчуванням)"
+
+#: inc/customizer.php:1007
+msgid "Put your custom CSS"
+msgstr "Помістіть свій користувацький код CSS"
+
+#: inc/customizer.php:987
+msgid "Custom CSS Settings"
+msgstr "Налаштування користувацького CSS"
+
+#: inc/customizer.php:813
+msgid "Enable Social Icons in Header"
+msgstr "Увімкніть соціальні іконки в шапці"
+
+#: inc/customizer.php:795
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Залиште порожнім, якщо ви не хочете показувати посилання на соц. мережу."
+
+#: inc/customizer.php:794
+msgid "Social Settings"
+msgstr "Налаштування соц. мереж"
+
+#: inc/customizer.php:747
+msgid "Show current"
+msgstr "Показати поточну"
+
+#: inc/customizer.php:711
+msgid "Breadcrumb Settings"
+msgstr "Налаштування хлібних крихт"
+
+#: inc/customizer.php:641
+msgid "Testimonial Section Content"
+msgstr "Вміст розділу \"Відгуки\""
+
+#: inc/customizer.php:605
+msgid "Enable Testimonial Section"
+msgstr "Увімкнути розділ відгуків"
+
+#: inc/customizer.php:576
+msgid "Show Blog Date"
+msgstr "Показати дату блогу"
+
+#: inc/customizer.php:558
+msgid "Blog Section Title"
+msgstr "Заголовок розділу блог"
+
+#: inc/customizer.php:456
+msgid "Enable Team Section"
+msgstr "Увімкнути розділ \"Команда\""
+
+#: inc/customizer.php:408
+msgid "Select Service Post Two"
+msgstr "Оберіть запис \"Послуги\" два"
+
+#: inc/customizer.php:389
+msgid "Select Service Post One"
+msgstr "Оберіть запис \"Послуги\" один"
+
+#: inc/customizer.php:371
+msgid "Enable Service Section"
+msgstr "Увімкнути розділ \"Послуги\""
+
+#: inc/customizer.php:323
+msgid "Select Featured Post Four"
+msgstr "Оберіть вибраний запис чотири"
+
+#: inc/customizer.php:304
+msgid "Select Featured Post Three"
+msgstr "Оберіть вибраний запис три"
+
+#: inc/customizer.php:285
+msgid "Select Featured Post Two"
+msgstr "Оберіть вибраний запис два"
+
+#: inc/customizer.php:266
+msgid "Select Featured Post One"
+msgstr "Оберіть вибраний запис один"
+
+#: inc/customizer.php:230
+msgid "Featured Section Title"
+msgstr "Заголовок розділу \"Особливості\""
+
+#: inc/customizer.php:212
+msgid "Enable Featured Section"
+msgstr "Увімкніть розділ \"Вибрані\""
+
+#: inc/customizer.php:164
+msgid "Select Banner Post"
+msgstr "Оберіть запис банеру"
+
+#: inc/customizer.php:146
+msgid "Enable Banner Section"
+msgstr "Увімкнути розділ банеру"
+
+#: inc/customizer.php:119
+msgid "Home Page Settings"
+msgstr "Налаштування головної сторінки"
+
+#: inc/customizer.php:88
+msgid "Enable Header Info"
+msgstr "Увімкнути інформацію в шапці"
+
+#: inc/customizer.php:51
+msgid "Default section provided by WordPress customizer."
+msgstr "Розділ за замовчуванням надається програмою для налаштування WordPress."
+
+#: inc/customizer.php:50
+msgid "Default Settings"
+msgstr "Налаштування за замовчуванням"
+
+#: inc/customizer.php:22
+msgid "Choose Post"
+msgstr "Оберіть запис"
+
+#: inc/extras.php:330
+msgid "<b class=\"fn\">%s</b>"
+msgstr "<b class=\"fn\">%s</b>"
+
+#: inc/customizer.php:849
+msgid "Social Section Title"
+msgstr "Заголовок розділу соц. мереж"
+
+#: inc/customizer.php:831
+msgid "Enable Social Section"
+msgstr "Увімкнути розділ соц. мереж"
+
+#: inc/customizer.php:697
+msgid "Select Testimonial Post Three"
+msgstr "Оберіть запис Відгуків три"
+
+#: inc/customizer.php:678
+msgid "Select Testimonial Post Two"
+msgstr "Оберіть запис Відгуків два"
+
+#: inc/customizer.php:659
+msgid "Select Testimonial Post One"
+msgstr "Оберіть запис Відгуків один"
+
+#: inc/customizer.php:492
+msgid "Team Section Content"
+msgstr "Вміст розділу команда"
+
+#: inc/customizer.php:248
+msgid "Featured Section Content"
+msgstr "Вміст розділу Обрані"
+
+#: inc/customizer.php:106
+msgid "Header Phone"
+msgstr "Телефон у шапці"
+
+#: 404.php:20
+msgid "The page you are looking for doesn&apos;t exist or an other error occured. Go to our %1$s or go back to %2$s."
+msgstr "Сторінку, яку ви шукаєте, не існує, або сталася інша помилка. Перейдіть до нашого %1$s або поверніться до %2$s."
+
+#: inc/widget-featured-post.php:102
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Без бічної колонки"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/extras.php:515
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/mudita/"
+msgstr "https://rarathemes.com/wordpress-themes/mudita/"
